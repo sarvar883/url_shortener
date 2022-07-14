@@ -1,0 +1,1 @@
+export const REBRANDLY_ENDPOINT = 'https://api.rebrandly.com/v1/links';
